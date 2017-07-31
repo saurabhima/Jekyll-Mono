@@ -36,9 +36,9 @@ Project Designer, Telecommunication and Information Technology, Government of In
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
+* [**Best Project Award in BTech Degree**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   I was awarded the Best Project Award as Team Leader of an award winning team which developed an Advanced Reconnaissance Platform which was a Tracked Platform based Robot which was capable of Autonomous Navigation in rugged terrain and could identify movement of soldiers and tanks/trucks from across the border. 
 
 ***
 
