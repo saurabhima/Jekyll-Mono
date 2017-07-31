@@ -4,21 +4,24 @@ title: About
 permalink: /about/
 ---
 
-I am currently a second year Masters student in the Computer Science Department of Indian Institute of Technology, Kharagpur. I am interested in Machine Learning and Artificial Intelligence and love to use these tools to solve real world problems.  
+I am currently a second year Masters student in the Computer Science Department of Indian Institute of Technology, Kharagpur. I am interested in Machine Learning and Artificial Intelligence and love to use these tools to solve real world problems. I have worked on several projects in this domain including Information Retrival and Natural Language Processing,  
 
-I am . 
+I am also interested in Embedded Systems, Robotics and am a Maker Enthusiast who love to fabricate and develop new things for fun. I am a trained Ball Room dancer and love Equestrian Sports (Horse Riding). I am also a trained Ultralight Pilot and dream of owning my own Ultralight someday. 
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+I have around six years of experience as Project Designer and Project Manager both in Telecommunication as well as Information Technology domain where I have been a part of the design and implementation team for various turnkey projects in the domain of Optical Fibre and Wireless Networks, Sensor Networks and Network Management and Administration.
 
 ## Education
 
-* Masters in Technology in Computer Science from Indian Institute of Technology, Kharagpur, India.
+* Masters in Technology in Computer Science from Indian Institute of Technology, Kharagpur, India. (Currently Undergoing)
 * Bachelors in Technology (Information Technology) from Jawaharlal Nehru University (JNU), New Delhi, India.
 * Bachelors in Science (Honours) Computer Science from Jawaharlal Nehru University (JNU), New Delhi, India.
 
 ## Roles
 
-Founder, ABC Organisation
+Project Manager, Telecommunication and Information Technology, Government of India
+
+Project Designer, Telecommunication and Information Technology, Government of India
+
 
 ## Skills
 
