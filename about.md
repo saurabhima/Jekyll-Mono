@@ -4,17 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+I am currently a second year Masters student in the Computer Science Department of Indian Institute of Technology, Kharagpur. I am interested in Machine Learning and Artificial Intelligence and love to use these tools to solve real world problems.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+I am . 
 
 Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Masters in Technology in Computer Science from Indian Institute of Technology, Kharagpur, India.
+* Bachelors in Technology (Information Technology) from Jawaharlal Nehru University (JNU), New Delhi, India.
+* Bachelors in Science (Honours) Computer Science from Jawaharlal Nehru University (JNU), New Delhi, India.
 
 ## Roles
 
