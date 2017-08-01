@@ -13,14 +13,19 @@ The Donor Workflow Management Application came up as a requirement for managing 
 
 The Workflow encompasses all activities required by volunteers, supervisors and administrators during the course of raising donation money. These involved the following:
     
-    *   Registration of New Donors
-    *   Allocation of Volunteers for each prospective donor
-    *   Logging of Telephone and Email conversation with Donors
-    *   Freezing Commitment of Donations by Donors
-    *   Accounting and Receipt Generation of Credited Donations
-    *   User and Right Management
-    *   Bulk Email Messaging
-    *   Other Wanted Features (We shall discover as we go along)
+    * Registration of New Donors
+    * Allocation of Volunteers for each prospective donor
+    * Logging of Telephone and Email conversation with Donors
+    * Freezing Commitment of Donations by Donors
+    * Accounting and Receipt Generation of Credited Donations
+    * User and Right Management
+    * Bulk Email Messaging
+    * Other Wanted Features (We shall discover as we go along)
     
-    
+More details of the project are available on the [Github Page](https://github.com/saurabhima/gsoc_LEADERBOARD)   
+ 
+## Basic Design Structure? 
+-----
 
+The basic workflow of the project is explained in the diagram below. In case if you wish to go through details of each module please visit our ReadMe the  [Github Page](https://github.com/saurabhima/gsoc_LEADERBOARD)
+![an image alt text]({{ site.baseurl }}/images/BasicWorkflow.jpg "an image title")
