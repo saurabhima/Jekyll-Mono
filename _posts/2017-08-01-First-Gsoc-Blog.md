@@ -28,4 +28,4 @@ More details of the project are available on the [Github Page](https://github.co
 -----
 
 The basic workflow of the project is explained in the diagram below. In case if you wish to go through details of each module please visit our ReadMe on the  [Github Page](https://github.com/saurabhima/gsoc_LEADERBOARD)
-![an image alt text]({{ site.baseurl }}/images/BasicWorkflow.jpeg "an image title")
+![an image alt text]({{ site.baseurl }}/images/Schema.png "an image title")
