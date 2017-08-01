@@ -11,8 +11,16 @@ This project was envisaged in order to provide developers and volunteers with a 
 
 The Donor Workflow Management Application came up as a requirement for managing Donors for the SphinxCapt Project. Since the project involved approaching a large number of donors to raise money to purchase Amazon Mechanical Turk Credit which are required for processing voice samples manually by paid workforce. 
 
-he Workflow encompasses all activities required by volunteers, supervisors and administrators during the course of raising donation money. These involved the following:
+The Workflow encompasses all activities required by volunteers, supervisors and administrators during the course of raising donation money. These involved the following:
     
+    *   Registration of New Donors
+    *   Allocation of Volunteers for each prospective donor
+    *   Logging of Telephone and Email conversation with Donors
+    *   Freezing Commitment of Donations by Donors
+    *   Accounting and Receipt Generation of Credited Donations
+    *   User and Right Management
+    *   Bulk Email Messaging
+    *   Other Wanted Features (We shall discover as we go along)
     
     
 
