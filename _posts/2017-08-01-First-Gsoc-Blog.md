@@ -3,8 +3,8 @@ layout: post
 title: A Small Brief of the Donor Workflow Application
 author: Saurabh Singh
 ---
-
 The Donor Workflow Management Application came up as a requirement for managing Donors for the SphinxCapt Project. Since the project  involved approaching a large number of donors to raise money to purchase Amazon Mechanical Turk Credit which are required for processing voice samples manually by paid workforce. 
+
 ---
 The Workflow encompasses all activities required by volunteers, supervisors and administrators during the course of raising donation money. These involved the following:
     
